@@ -20,7 +20,7 @@ h1 {
 
 h2 {
   font-size: 15px;
-  font-weight: normal;
+  font-weight: bold;
   color: #000000;
   margin-bottom: 0px;
   border-bottom: 1px solid #000000;
@@ -28,26 +28,26 @@ h2 {
 
 h3 {
   font-size: 14px;
-  font-weight: normal;
+  font-weight: bold;
   color: #000000;
 }
 
 h4 {
-  font-size: 14px;
-  font-weight: normal;
+  font-size: 13px;
+  font-weight: bold;
   color: #000000;
 }
 
 #contactinfo {
   font-size: 16px;
-  font-weight: lighter;
+  font-weight: normal;
   color: #000000;
   margin-bottom: 15px;
 }
 
 #summaryparagraph {
   font-size: 15px;
-  font-weight: lighter;
+  font-weight: normal;
   color: #000000;
   margin-bottom: 20px;
 }
