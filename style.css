@@ -46,6 +46,7 @@ p {
 
 .dates {
   float: right;
+  margin-right: 40px;
 }
 
 #contactinfo {
