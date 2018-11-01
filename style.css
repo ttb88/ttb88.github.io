@@ -1,6 +1,8 @@
 html, body {
   font-family: "helvetica neue"; helvetica;
   font-size: 13px;
+  font-weight: lighter;
+  font-color: #000000;
   text-align: left;
 }
 
@@ -19,7 +21,7 @@ h1 {
 h2 {
   font-size: 14px;
   font-weight: normal;
-  color: black;
+  color: #000000;
   border-bottom: 1px solid #000000;
   margin-bottom: 0px;
 }
@@ -27,20 +29,20 @@ h2 {
 h3 {
   font-size: 13px;
   font-weight: normal;
-  color: black;
+  color: #000000;
 }
 
 #contactinfo {
   font-size: 15px;
   font-weight: lighter;
-  color: black;
+  color: #000000;
   margin-bottom: 15px
 }
 
 #summaryparagraph {
   font-size: 14px;
   font-weight: lighter;
-  color: black;
+  color: #000000;
   margin-bottom: 20px
 }
 
