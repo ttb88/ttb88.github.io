@@ -26,13 +26,14 @@ h2 {
   font-size: 15px;
   font-weight: lighter;
   color: black;
-  margin-bottom: 15px;
 }
 
 #summaryparagraph {
   font-size: 12px;
   font-weight: lighter;
   color: black;
+  margin-top: 15px
+  margin-bottom: 15px
 }
 
   
