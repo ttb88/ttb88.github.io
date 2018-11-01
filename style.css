@@ -7,7 +7,14 @@ html, body {
 
 h1 {
   font-size: 30px;
+  weight: medium;
   color: blue;
+}
+
+h2 {
+  font-size: 15px;
+  weight: light;
+  color: black;
 }
 
 .container {
