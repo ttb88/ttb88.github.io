@@ -1,6 +1,6 @@
 html, body {
   font-family: "helvetica neue"; helvetica;
-  line-height: 0.1;
+  line-height: 0.3;
   text-align: left;
 }
 
@@ -17,9 +17,8 @@ h2 {
 }
 
 .container {
-  display: flex;
   width: 800px;
-	margin: 40px auto 60px;
+  margin: 40px auto 60px;
 }
 
 .header {
