@@ -47,6 +47,7 @@ p {
 #contactinfo {
   font-size: 16px;
   font-weight: normal;
+  letter-spacing: .5px;
   color: #000000;
   margin-bottom:15px;
 }
