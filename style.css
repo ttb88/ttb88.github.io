@@ -20,8 +20,10 @@ h2 {
   color: black;
 }
 
-#header {
-line-height: 0.3;
+#contactinfo {
+  font-size: 15px;
+  font-weight: lighter;
+  color: black;
 }
 
 #summaryparagraph {
