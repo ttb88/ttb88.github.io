@@ -3,6 +3,11 @@ html, body {
   text-align: left;
 }
 
+.container {
+  width: 800px;
+  margin: 40px auto 60px;
+}
+
 h1 {
   font-size: 30px;
   font-weight: normal;
@@ -15,17 +20,14 @@ h2 {
   color: black;
 }
 
+#header {
+line-height: 0.3;
+}
+
 #summaryparagraph {
   font-size: 12px;
   font-weight: lighter;
   color: black;
 }
 
-.container {
-  width: 800px;
-  margin: 40px auto 60px;
-}
-
-.header {
-}
   
