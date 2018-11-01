@@ -8,7 +8,7 @@ html, body {
 
 .container {
   width: 950px;
-  margin: 10px auto 10px;
+  margin: 40px auto 60px;
 }
 
 h1 {
@@ -22,7 +22,7 @@ h2 {
   font-size: 15px;
   font-weight: bold;
   color: #000000;
-  margin-bottom: 0px;
+  margin-bottom:0px;
   border-bottom: 1px solid #000000;
 }
 
@@ -42,14 +42,14 @@ h4 {
   font-size: 16px;
   font-weight: normal;
   color: #000000;
-  margin-bottom: 15px;
+  margin-bottom:15px;
 }
 
 #summaryparagraph {
   font-size: 15px;
   font-weight: normal;
   color: #000000;
-  margin-bottom: 20px;
+  margin-bottom:20px;
 }
 
   
