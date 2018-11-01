@@ -1,6 +1,5 @@
 html, body {
   font-family: "helvetica neue"; helvetica;
-  line-height: 0.3;
   text-align: left;
 }
 
@@ -16,7 +15,7 @@ h2 {
   color: black;
 }
 
-p {
+#summaryparagraph {
   font-size: 12px;
   font-weight: lighter;
   color: black;
