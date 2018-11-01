@@ -22,17 +22,23 @@ h2 {
   border-bottom: 1px solid #000000;
 }
 
+h2 {
+  font-size: 13px;
+  font-weight: normal;
+  color: black;
+}
+
 #contactinfo {
   font-size: 15px;
   font-weight: lighter;
   color: black;
+  margin-bottom: 15px
 }
 
 #summaryparagraph {
   font-size: 14px;
   font-weight: lighter;
   color: black;
-  margin-top: 15px
   margin-bottom: 20px
 }
 
