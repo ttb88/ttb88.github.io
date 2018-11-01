@@ -4,13 +4,13 @@ html, body {
 
 h1 {
   font-size: 30px;
-  weight: medium;
+  font-weight: bold;
   color: blue;
 }
 
 h2 {
   font-size: 15px;
-  weight: light;
+  font-weight: lighter;
   color: black;
 }
 
