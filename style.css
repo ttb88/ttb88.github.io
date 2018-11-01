@@ -47,6 +47,7 @@ p {
 .dates {
   float: right;
   margin-right: 48px;
+  font-size: 14px;
   font-style: bold;
 }
 
