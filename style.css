@@ -1,5 +1,6 @@
 html, body {
   font-family: "helvetica neue"; helvetica;
+  font-size: 13px;
   text-align: left;
 }
 
@@ -22,7 +23,7 @@ h2 {
   border-bottom: 1px solid #000000;
 }
 
-h2 {
+h3 {
   font-size: 13px;
   font-weight: normal;
   color: black;
