@@ -16,6 +16,12 @@ h2 {
   color: black;
 }
 
+p {
+  font-size: 12px;
+  font-weight: lighter;
+  color: black;
+}
+
 .container {
   width: 800px;
   margin: 40px auto 60px;
