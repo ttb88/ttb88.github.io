@@ -44,6 +44,10 @@ p {
   margin-bottom: -5px;
 }
 
+.dates {
+  float: right;
+}
+
 #contactinfo {
   font-size: 16px;
   font-weight: normal;
