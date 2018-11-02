@@ -43,6 +43,8 @@ h4 {
 h5 {
   font-size: 13px;
   color: #000000;
+  margin-bottom: -20px
+  
 }
 
 p {
@@ -85,5 +87,5 @@ p {
 }
 
 .education-degreeinfo {
-    margin-top: -25px;
+    margin-bottom: -25px;
 }
