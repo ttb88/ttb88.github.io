@@ -1,5 +1,5 @@
 html, body {
-  background-image: url("white-paper-texture.jpg"); background-size: cover;
+  background-image: url("white-paper-texture.jpg");
   font-family: "helvetica neue"; helvetica;
   font-size: 13px;
   font-weight: normal;
@@ -54,7 +54,6 @@ p {
 .dates {
   float: right;
   margin-right: 48px;
-  text-align: left;
   font-weight: bold;
 }
 
