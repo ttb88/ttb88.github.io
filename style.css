@@ -12,6 +12,11 @@ html,body {
   margin: 40px auto 60px;
 }
 
+img {
+    border-radius: 50%;
+    float: left;
+}
+
 h1 {
   font-size: 30px;
   font-weight: normal;
