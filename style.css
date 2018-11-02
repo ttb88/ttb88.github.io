@@ -13,8 +13,8 @@ html,body {
 }
 
 img {
-    width: 25px;
-    height: 25px;
+    width: 100px;
+    height: 100px;
     border-radius: 50%;
     filter: grayscale(100%);
     float: left;
