@@ -9,7 +9,7 @@ html,body {
 
 .container {
   width: 950px;
-  margin: 40px auto 60px;
+  margin: 40px auto 50px;
 }
 
 img {
@@ -26,6 +26,22 @@ h1 {
   font-weight: normal;
   color: #336699;
   margin-bottom:0px;
+}
+
+#contactinfo {
+  font-size: 16px;
+  font-weight: normal;
+  letter-spacing: .5px;
+  color: #000000;
+  margin-bottom:50px;
+}
+
+#summaryparagraph {
+  font-size: 16px;
+  font-weight: normal;
+  font-style: italic;
+  color: #000000;
+  margin-bottom:20px;
 }
 
 h2 {
@@ -64,22 +80,6 @@ p {
   float: right;
   margin-right: 48px;
   font-weight: bold;
-}
-
-#contactinfo {
-  font-size: 16px;
-  font-weight: normal;
-  letter-spacing: .5px;
-  color: #000000;
-  margin-bottom:35px;
-}
-
-#summaryparagraph {
-  font-size: 16px;
-  font-weight: normal;
-  font-style: italic;
-  color: #000000;
-  margin-bottom:20px;
 }
 
   #independentprojects {
