@@ -17,7 +17,7 @@ img {
     height: 85px;
     margin-right: 10px;
     border-radius: 50%;
-    border: 1px solid #000000;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
     filter: grayscale(100%);
     float: left;
 }
