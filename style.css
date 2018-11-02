@@ -66,11 +66,7 @@ p {
   font-weight: bold;
 }
 
-#headertext {
-  margin: 50px auto 20px;
-}
-
-#headertext_contactinfo {
+#contactinfo {
   font-size: 16px;
   font-weight: normal;
   letter-spacing: .5px;
