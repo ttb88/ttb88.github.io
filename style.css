@@ -1,5 +1,5 @@
 html, body {
-  background: url(white.textured.jpg);
+  background-image: url("white.textured.jpg"); background-size: cover; opacity: .5;
   font-family: "helvetica neue"; helvetica;
   font-size: 13px;
   font-weight: normal;
